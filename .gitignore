@@ -1,0 +1,17 @@
+# MiniRouter build artifacts and temporary files
+build/
+build-*/
+bin/
+lib/
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+__pycache__/
+*.pyc
+.pytest_cache/
+.vscode/
+.idea/
+*.log
